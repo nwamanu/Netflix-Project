@@ -1,2 +1,3 @@
 # code to create EC2
-#typr --> t2.micro
+# typr --> t2.micro
+# OS --> Windows
